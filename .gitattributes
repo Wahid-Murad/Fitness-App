@@ -1,0 +1,5 @@
+touch .gitattributes
+*.* linguist-language=dart
+git add .
+git commit -m "Change tagged language from c++ to dart"
+git push
